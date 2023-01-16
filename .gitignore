@@ -163,12 +163,13 @@ cython_debug/
 pytransform/
 
 #config file
-mainConfig.py
+config.py
 
 # user files
 geckodriver.log
 *.txt
 *.exe
+.DS_Store
 
 # premium files
 angelco.py

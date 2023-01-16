@@ -3,11 +3,9 @@
 ![linkedineasyapplygif](https://user-images.githubusercontent.com/34207598/128695728-6efcb457-0f75-42e2-987a-f7a0c239a235.gif)
 A python bot to apply all Linkedin Easy Apply jobs based on your preferences.
 
-- Two options are avalible to use this bot, either with entering password or without fully secure no credentials are stored way.
+- Two options are avalible to use this bot, either with entering password or without, fully secure no credentials are stored.
 - Export all results and offers as txt file
-- Export unanswered questions to txt file, enter answers there next time bot will use these values
-- Answer unasnwered question with AI! Let AI answer easy apply jobs' questions.
-- Fully customizable job preferences (advanced filters, search filters)
+- Fully customizable job preferences
 - Can be used for many job search websites such as Linkedin, Glassdoor, AngelCo, Greenhouse, Monster, GLobalLogic and Djinni.
 
 To modify, use, get documentation or for you enquiries kindly contact me via: <br>
@@ -39,8 +37,7 @@ showing how this can be used. To buy, support this project and help me add more 
 - clone the repo `git clone https://github.com/wodsuz/EasyApplyJobsBot`
 - Make sure Python and pip is installed
 - Install dependencies with `pip3 install -r requirements.yaml`
-- Enter your linkedin credentials on line 8 and 9 of config.py file
-- Either create firefox Profile and put its path on line 8 of config.py or enter your linkedin credentials line 11 and 12 of config.py. - this feature is avalible currently only for Linkedin bot pro members)
+- Either create firefox Profile and put its path on line 8 of config.py or enter your linkedin credentials line 11 and 12 of config.py.
 - Modify config.py according to your demands.
 - Run `python3 linkedin.py`
 - Check Applied Jobs DATA .txt file is generate under /data folder
@@ -106,4 +103,3 @@ This tutorial briefly explains how to set up LinkedIn Easy Apply jobs bot. With 
 - Output not completed fields in Linkedin
 - Add support to other major job seeking websites (Glassdoor, AngelCo, Greenhouse, Monster, GLobalLogic, djinni)
 - AngelCo - https://angel.co/l/2xRADV
-- https://cryptocurrencyjobs.co/
